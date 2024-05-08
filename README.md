@@ -1,7 +1,7 @@
 # CORS Freedom Plus - Extension for Microsoft Edge o Chrome
 
 <p align="center">
-  <img src="[https://github.com/Xalysna/CORS-Freedom-Plus/raw/main/icon-512.png" alt="CORS Freedom Plus Logo" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/Xalysna/CORS-Freedom-Plus/main/icon-512.png" alt="CORS Freedom Plus Logo" width="200" height="200">
 </p>
 
 Unleash the full web potential by removing CORS restrictions. Access content without limits and make PUT, PATCH, POST, DELETE, and more requests with CORS Freedom Plus. Browse without barriers and experience total freedom on the web.
